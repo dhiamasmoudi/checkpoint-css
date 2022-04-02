@@ -1,0 +1,158 @@
+body{
+    margin: 0 0;
+    padding: 0 0;
+   ;
+   background-image:  url(/white-concrete-wall.jpg); 
+
+}
+
+  #portfol{
+      color:#3a6cf4 ;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }  
+ 
+
+header{
+    margin-top: -25px;
+    background-color: #f0f0f0;
+    display: flex;
+    height: 70px;
+   
+}
+ul{
+   padding-left:300px;
+  
+   margin-left:400px;
+   font-size:x-large;
+ 
+
+}
+a{
+    color:#090b29 ;
+   text-decoration: none;
+   color: #3a6cf4
+  
+}
+
+li{list-style: none;
+display: inline;
+padding-right: 40px;
+padding-bottom:18px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+  
+
+.aboutme{ margin-top: -25px;
+   
+margin-bottom: 50px;}
+ .img{width:20%;
+ background-color: #3a6cf4;
+    margin-left:60%;
+    border-radius: 50%;
+   margin-top: -300px;
+    
+
+     
+
+ } 
+
+ .main{
+   
+    margin-top: -40px;
+ 
+    background-position:center; 
+    background-repeat:repeat-y;
+
+} 
+li:hover{
+   background-color: black;
+}
+.main h3{
+    width: 400px;
+    color: #3a6cf4 ;
+   font-size: 40px;
+   
+
+   margin-left: 25%;
+  
+   
+
+}
+#title{color: black;
+  
+}
+section{
+    
+ width: 400px;
+ margin:0 300px;
+font-size: 40px;
+ font-size: 25px;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ margin-bottom: 100px;
+
+
+
+
+}
+.about{width: 400px;
+
+}
+.about p{
+    margin-left: 100px;
+    font-size: 30px;
+   
+    border-radius:30px ;
+    margin-top: 60px;
+    border-style:  solid;
+    color: #3a6cf4;
+}
+.about h1{margin-left:600px;
+width: 200px;
+
+}
+#aboutme{
+    text-decoration: underline
+}
+
+.about p:hover{  background-color: black;
+
+}
+.mywork{
+    text-decoration: underline;
+    margin-left:600px;
+width: 200px;
+}
+#myworkh3{margin-left:350px;
+    color: #3a6cf4;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 1000px
+    ;
+    height: auto;
+
+}
+#iframe{
+
+}
+input{width: 300px;
+    height: 50px;
+    background-color:#3a6cf4;
+    margin: 10px 30px;
+   
+    
+}
+#subject{width: 600px;
+height: 100px;
+margin-left: 120px;}
+
+label{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#name{
+    margin-left: 150px;
+}
+ 
+
